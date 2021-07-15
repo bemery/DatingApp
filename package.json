@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jasmine": "^3.8.0",
+    "karma": "^6.3.4"
+  }
+}
